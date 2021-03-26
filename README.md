@@ -3,7 +3,7 @@ To improve my data science skills I've been working on a selection of projects. 
 
 ## Data exploration
 Which Pokemon is the best? https://www.kaggle.com/jamiedumayne/which-pokemon-is-the-best  
-Exploring what I've watched on Netflix: https://www.kaggle.com/jamiedumayne/netflix-data
+What have I watched on Netflix? https://www.kaggle.com/jamiedumayne/netflix-data
 
 ## Machine learning
 Diagnosing likelyhood of having diabetes (KNN): https://www.kaggle.com/jamiedumayne/diabetes-data-set-knn
