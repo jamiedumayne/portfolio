@@ -10,9 +10,9 @@ I spent 3 months carrying out an internship for the company Leonardo. I tested i
 ## Other projects
 To improve my data science skills I worked on a selection of projects based on datasets hosted on Kaggle. Links to all of these are below.
 
-## Data exploration
+##### Data exploration
 Which Pokemon is the best? https://www.kaggle.com/jamiedumayne/which-pokemon-is-the-best  
 What have I watched on Netflix? https://www.kaggle.com/jamiedumayne/netflix-data
 
-## Machine learning
+##### Machine learning
 Diagnosing likelyhood of having diabetes (KNN): https://www.kaggle.com/jamiedumayne/diabetes-data-set-knn
