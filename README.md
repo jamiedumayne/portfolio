@@ -4,6 +4,8 @@
 
 #### Data visualisation at Dsposal
 I spent 3 months working for the waste management company Dspsoal. I made maps of the location of every Household Waste Recycling Centre in the UK, and how long it takes for someone to drive to their nearest one.
+Calculate driving distances
+Create map https://www.kaggle.com/code/jamiedumayne/wales-map/
 
 #### Machine learning at Leonardo
 I spent 3 months carrying out an internship for the company Leonardo. I tested if pre-trained neural networks could be applied to radar data. Unforunately, due to the secretive nature of radar research I can't share the code I produced. However, I can talk about my work at Leonardo in slightly more detail in person.
