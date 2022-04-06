@@ -2,7 +2,7 @@
 
 ## Working in Data science
 
-#### Data visulisation at Dsposal
+#### Data visualisation at Dsposal
 I spent 3 months working for the waste management company Dspsoal. I made maps of the location of every Household Waste Recycling Centre in the UK, and how long it takes for someone to drive to their nearest one.
 
 #### Machine learning at Leonardo
