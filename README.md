@@ -3,8 +3,8 @@
 ## Working in Data science
 
 #### Data visualisation at Dsposal
-I spent 3 months working for the waste management company Dspsoal. I made maps of the location of every Household Waste Recycling Centre in the UK, and how long it takes for someone to drive to their nearest one.
-Calculate driving distances
+I spent 3 months working for the waste management company Dspsoal. I made maps of the location of every Household Waste Recycling Centre in the UK, and how long it takes for someone to drive to their nearest one. <br />
+Calculate driving distances https://www.kaggle.com/code/jamiedumayne/wales-driving-distances <br />
 Create map https://www.kaggle.com/code/jamiedumayne/wales-map/
 
 #### Machine learning at Leonardo
